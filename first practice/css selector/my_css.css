@@ -1,0 +1,17 @@
+h3 {
+     color: blue;
+     }
+    
+    
+     /*class selection*/
+     .c_head{
+     font-family: cursive;
+     color: rgb(212, 98, 11);
+     }
+    
+    
+     /*id selection*/
+     #i_head{
+     font-variant: small-caps;
+     color: red;
+     }
